@@ -10,4 +10,4 @@
 ### Lab 2
 - Arrow Functions.
 - Classes and Subclasses.
-- Callback Functions
+- Callback Functions.
