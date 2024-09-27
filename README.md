@@ -16,3 +16,9 @@
 - Importing/Exporting modules.
 - Using CORE API to start a web server.
 - Sending JSON responses about employee data.
+
+### Lab 4
+- Using express to process GET requests.
+- Using query and default paramaters.
+- Using route parameters.
+- Using Postman to test the requests.
