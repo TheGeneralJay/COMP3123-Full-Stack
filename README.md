@@ -11,3 +11,8 @@
 - Arrow Functions.
 - Classes and Subclasses.
 - Callback Functions.
+
+### Lab 3
+- Importing/Exporting modules.
+- Using CORE API to start a web server.
+- Sending JSON responses about employee data.
