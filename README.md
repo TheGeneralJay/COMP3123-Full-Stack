@@ -22,3 +22,7 @@
 - Using query and default paramaters.
 - Using route parameters.
 - Using Postman to test the requests.
+
+### Lab 5
+- Used express Router middleware.
+- Configured a basic express error handler.
