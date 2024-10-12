@@ -26,3 +26,8 @@
 ### Lab 5
 - Used express Router middleware.
 - Configured a basic express error handler.
+
+### Lab 6
+- Working with MongoDB.
+- Working with Mongoose.
+- Creating CRUD operations.
